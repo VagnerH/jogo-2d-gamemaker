@@ -1,0 +1,25 @@
+{
+  "$GMPath":"",
+  "%Name":"path_pista",
+  "closed":false,
+  "kind":1,
+  "name":"path_pista",
+  "parent":{
+    "name":"BLANK GAME",
+    "path":"BLANK GAME.yyp",
+  },
+  "points":[
+    {"speed":100.0,"x":1344.0,"y":544.0,},
+    {"speed":100.0,"x":835.35754,"y":263.28485,},
+    {"speed":100.0,"x":512.0,"y":224.0,},
+    {"speed":100.0,"x":384.0,"y":256.0,},
+    {"speed":100.0,"x":288.0,"y":288.0,},
+    {"speed":100.0,"x":64.0,"y":288.0,},
+    {"speed":100.0,"x":-64.0,"y":224.0,},
+    {"speed":100.0,"x":-128.0,"y":192.0,},
+    {"speed":100.0,"x":-224.0,"y":160.0,},
+  ],
+  "precision":4,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
