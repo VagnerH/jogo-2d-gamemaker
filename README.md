@@ -1,2 +1,17 @@
-# jogo-2d-gamemaker
-Jogo 2D desenvolvido no GameMaker, no qual o jogador deve desviar de obstáculos enquanto coleta um skate para acumular pontos. O projeto foi criado com foco na prática de lógica de programação, movimentação e sistema de colisões.
+# Jogo 2D (GameMaker)
+
+## Sobre o jogo
+Jogo 2D desenvolvido no GameMaker, no qual os jogadores deve desviar de obstáculos e cooperar para coletar um skate para pontuar.
+
+## Mecânicas
+- Tutorial
+- Movimentação dos personagens
+- Sistema de colisão
+- Sistema de pontuação
+- Trocas de fases
+
+## Objetivo
+Desviar dos obstáculos e coletar o skate para avançar de fase.
+
+## Tecnologias
+- GameMaker
